@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='usjt_ccp3an_bua_weather_forecast'
